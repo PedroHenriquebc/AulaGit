@@ -1,3 +1,3 @@
-Nome: Pedro Henrique Barros da Costa \n
-Prato favorito: Sushi \n
+Nome: Pedro Henrique Barros da Costa  
+Prato favorito: Sushi  
 Curiosidade: Conheci minha esposa em um jogo online!
